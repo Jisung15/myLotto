@@ -1,7 +1,6 @@
 package com.example.mylotto
 
 import android.os.Bundle
-import android.os.Message
 import android.widget.Button
 import android.widget.NumberPicker
 import android.widget.TextView
